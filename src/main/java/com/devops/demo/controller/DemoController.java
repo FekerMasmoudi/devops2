@@ -11,6 +11,6 @@ public class DemoController {
 		@GetMapping("/hello")  
 		private String getHelloMessage()   
 		{  
-			return "Hello Jenkins Soretras :)" ;  
+			return "Hello Jenkins Soretras 2:)" ;  
 		}  
 }
